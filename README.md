@@ -1,14 +1,14 @@
 # atoms-CICD-reproduction-pack
 This is a Reproduction Package made for the paper
 "Studying the Impact of CI/CD Adoption on Atoms 
-of Confusion Distribution and Prevalence in Open-Source Projects"
-to be published in the Journal of Software Engineering Research and Development
+of Confusion Distribution and Prevalence in Open-Source Projects",
+submitted for review to the Journal of Software Engineering Research and Development
 by the Authors:
 - Diego N. Feijó
 - Carlos D. A. de Almeida
 - Lincoln S. Rocha
 
-This document works as a general helper for those wanting
+This document is a general helper for those wanting
 to replicate our experiment. The data we used is included,
 but you may use other data if inclined.
 
@@ -20,7 +20,7 @@ for our imports to work.
 5. After that, execute "history-plots-geo-mean" to get the plots showing the history of each metric for each project, and also the Wilcoxon comparison using the geometric mean
 6. Finally, execute the "violin-plots-fp-rp" to get the violin plots and the metrics FP and RP
 
-All the plots will be present in the Output folder,
-and all the .csv files will be present in the Data folder.
+All the plots will be in the Output folder,
+and all the .csv files will be in the Data folder.
 The original .csv files for each project will be in a subfolder
 in Data called "reports".
