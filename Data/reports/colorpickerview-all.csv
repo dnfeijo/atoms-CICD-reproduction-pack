@@ -1,0 +1,9 @@
+Period;Version;Classes Total;Classes w/ Atoms;LoC;N.Atoms;N.Types;PostIncDec;PreIncDec;IOP;CO;AaL;LaCF;RV;CoLE;OCB;TC
+After CI/CD;2.2.4;21;8;3142;39;4;0;0;15;2;0;11;0;0;0;11
+After CI/CD;2.2.2;21;8;3083;40;4;0;0;16;2;0;11;0;0;0;11
+After CI/CD;2.2.0;21;6;2985;36;3;0;0;16;0;0;10;0;0;0;10
+After CI/CD;2.1.7;20;7;2748;19;3;0;0;6;0;0;6;0;0;0;7
+Before CI/CD;2.1.5;20;8;2652;20;3;0;0;6;0;0;8;0;0;0;6
+Before CI/CD;2.1.3;20;7;2603;19;3;0;0;6;0;0;8;0;0;0;5
+Before CI/CD;2.1.0;17;5;2083;18;3;0;0;4;0;0;9;0;0;0;5
+Before CI/CD;2.0.0;14;3;1138;16;3;0;0;7;0;0;5;0;0;0;4
